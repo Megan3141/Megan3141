@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Megan 👋
 
-<!--
-**Megan3141/Megan3141** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Mathematics Student | 💼 Finance Placement @ Next PLC
+I'm a Mathematics student currently on a finance placement, exploring the intersection of **Deep Learning** and **Market Dynamics**.
+---
 
-Here are some ideas to get you started:
+### 🔍 What I'm working on:
+* **Neural Networks for Sequences:** Moving beyond static formulas to see if AI can "learn" market volatility.
+* **Matrix Manifolds:** Using Linear Algebra to optimize how AI models "think" about risk.
+* **The Math of Intelligence:** Exploring the Gradient Descent behind Large Language Models.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> "The goal isn't to solve an equation; it's to build a system that learns the equation."
+
+---
+### 🛠️ Learning Journey
+- [ ] Transitioning from MATLAB to **Python/PyTorch**
+- [ ] Mastering **Stochastic Processes** for AI
+- [ ] Exploring the **Microsoft AI for Beginners** curriculum

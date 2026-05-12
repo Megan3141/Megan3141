@@ -4,14 +4,10 @@ Mathematics undergraduate on placement in a FTSE 100 finance team, building work
 
 Currently focused on automation engineering, reporting infrastructure, AI-enabled workflow tools, and operational analytics.
 
-## What I’m Doing
-- Building automation tools to solve real workflow problems
-- Transitioning into software, data, and AI-focused roles
-
-## Current Projects
-- Automating retail dashboards to project KPI data
-- Internship Market Scanner → automating job search and filtering
-- AI CV Tailor → generating tailored CV content using AI (in progress)
+## Currently Building
+- AI Reporting Analyst — natural language analytics assistant for KPI workflows
+- Workflow automation tooling for reporting infrastructure
+- AI-powered operational analytics systems
 
 ## Skills
 - Python (Pandas, NumPy)

@@ -1,6 +1,6 @@
 # Megan Rudge
 
-Mathematics undergraduate on placement in a FTSE 100 finance team, building workflow automation and reporting systems for ecommerce and operational processes.
+Mathematics undergraduate on placement in a large enterprise finance team, building workflow automation and reporting systems for business and operational processes.
 
 Currently focused on automation engineering, reporting infrastructure, AI-enabled workflow tools, and operational analytics.
 
@@ -18,7 +18,7 @@ Currently focused on automation engineering, reporting infrastructure, AI-enable
 
 ## Background
 - Mathematics degree (Aston University)
-- Finance placement at a FTSE 100 company
+- Finance placement in a large enterprise organisation
 - Experience working with large datasets, reporting, and process improvement
 
 ## What I’m Interested In
@@ -27,7 +27,7 @@ Currently focused on automation engineering, reporting infrastructure, AI-enable
 - Startups and building scalable systems
 
 ## Currently Working On
-Improving my projects and building a strong portfolio for internships in software, data, and AI.
+Improving my projects and building a strong portfolio in software, data, automation, and AI.
 
 ## Contact
 - LinkedIn: https://linkedin.com/in/megan-rudge
